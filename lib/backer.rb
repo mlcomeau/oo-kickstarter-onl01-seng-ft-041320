@@ -1,2 +1,2 @@
-class Backer 
-end 
+class Backer
+end
